@@ -1,6 +1,14 @@
 # DmitriyDubikov_microservices
 DmitriyDubikov microservices repository
 
+ДЗ №14 Docker-3
+
+Разобрали наше приложение на компоненты
+
+Рассмотрели приёмы оптимизации Docker образов
+
+Результат можно посмотреть http://35.241.156.254:9292/
+
 ДЗ №13 Docker-2
 
 Снёс 32 битную систему, установил 64-х битную.
