@@ -1,6 +1,18 @@
 # DmitriyDubikov_microservices
 DmitriyDubikov microservices repository
 
+ДЗ №16 Gitlab-ci-1
+
+Создали новую ВМ
+
+Подготовили инсталяцию Gitlab CI
+
+Настроили репозиторий с кодом приложения
+
+Описали для приложения этапы пайплайны
+
+Определили окружение
+
 ДЗ №15 Docker-4
 
 Разобрали примеры работы Docker с сетями
