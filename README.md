@@ -1,6 +1,24 @@
 # DmitriyDubikov_microservices
 DmitriyDubikov microservices repository
 
+ДЗ №17 Monitoring-1
+
+Запустили и настроили Prometheus
+
+Научились использовать мониторинг состояния микросервисов
+
+Настроили сбор метрик хоста с использованием экспортера
+
+Ссылки на образы:
+
+https://cloud.docker.com/repository/docker/dmitriydubikov/prometheus
+
+https://cloud.docker.com/repository/docker/dmitriydubikov/post
+
+https://cloud.docker.com/repository/docker/dmitriydubikov/comment
+
+https://cloud.docker.com/repository/docker/dmitriydubikov/ui
+
 ДЗ №16 Gitlab-ci-1
 
 Создали новую ВМ
