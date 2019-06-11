@@ -1,6 +1,31 @@
 # DmitriyDubikov_microservices
 DmitriyDubikov microservices repository
 
+ДЗ №18 Monitoring-2
+
+
+Научились подключить и визуализировать метрики
+
+Разделили приложение и мониторинг в разные файлы docker-compose
+
+Подключили cAdvisor UI, Grafana.
+
+Научились создавать свои дашборды и использовать имеющиеся у Grafana
+
+Настроили Alerting в Prometheus и в Slack
+
+Запушили образы в DockerHub:
+
+https://cloud.docker.com/repository/docker/dmitriydubikov/alertmanager
+
+https://cloud.docker.com/repository/docker/dmitriydubikov/prometheus
+
+https://cloud.docker.com/repository/docker/dmitriydubikov/post
+
+https://cloud.docker.com/repository/docker/dmitriydubikov/comment
+
+https://cloud.docker.com/repository/docker/dmitriydubikov/ui
+
 ДЗ №17 Monitoring-1
 
 Запустили и настроили Prometheus
