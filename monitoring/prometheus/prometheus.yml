@@ -31,7 +31,7 @@ scrape_configs:
   - job_name: 'post'
     static_configs:
       - targets:
-        - 'post:5001'
+        - 'post:5000'
 
 rule_files:
   - "alerts.yml"
