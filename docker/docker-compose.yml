@@ -28,7 +28,7 @@ services:
     networks:
       front_net:
         aliases:
-          - post
+          - mon_post
       back_net:
       mon_net:
         aliases:
