@@ -1,8 +1,15 @@
 # DmitriyDubikov_microservices
 DmitriyDubikov microservices repository
 
-ДЗ №18 Monitoring-2
+ДЗ №19 Logging-1
 
+Научилисть собирать и визуализировать неструктурированные и структурированные логи
+
+Установили ElasticSearch и Kibina
+
+Установили Zipkin
+
+ДЗ №18 Monitoring-2
 
 Научились подключить и визуализировать метрики
 
