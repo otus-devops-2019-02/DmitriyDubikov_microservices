@@ -1,6 +1,10 @@
 # DmitriyDubikov_microservices
 DmitriyDubikov microservices repository
 
+ДЗ №20 Kubernetes-1
+
+Прошли Kubernetes The Hard Way
+
 ДЗ №19 Logging-1
 
 Научилисть собирать и визуализировать неструктурированные и структурированные логи
