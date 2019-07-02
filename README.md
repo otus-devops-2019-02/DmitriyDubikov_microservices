@@ -1,6 +1,16 @@
 # DmitriyDubikov_microservices
 DmitriyDubikov microservices repository
 
+ДЗ №21 Kubernetes-2
+
+Установили kubectl и minikube
+
+Развернули на локальной машине окружение для работы с Kubernetes
+
+Развернуть Kubernetes в GKE
+
+Запустили reddit в Kubernetes
+
 ДЗ №20 Kubernetes-1
 
 Прошли Kubernetes The Hard Way
