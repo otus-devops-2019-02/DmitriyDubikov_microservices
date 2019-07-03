@@ -1,6 +1,27 @@
 # DmitriyDubikov_microservices
 DmitriyDubikov microservices repository
 
+ДЗ №22 Kubernetes-3
+
+Изучили на примерах:
+
+• Ingress Controller
+
+• Ingress
+
+• Secret
+
+• TLS
+
+• LoadBalancer Service
+
+• Network Policies
+
+• PersistentVolumes
+
+• PersistentVolumeClaims
+
+
 ДЗ №21 Kubernetes-2
 
 Установили kubectl и minikube
