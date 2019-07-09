@@ -1,0 +1,15 @@
+dependencies:
+- name: ui
+  repository: file://../ui
+  version: 1.0.0
+- name: post
+  repository: file://../post
+  version: 1.0.0
+- name: comment
+  repository: file://../comment
+  version: 1.0.0
+- name: mongodb
+  repository: https://kubernetes-charts.storage.googleapis.com
+  version: 6.1.0
+digest: sha256:01b1d8e061cbd7e765ed68fdd281d4888f0f290a6fceaf153decc76d94516939
+generated: "2019-07-09T21:57:36.342116475+04:00"
