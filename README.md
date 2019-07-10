@@ -1,6 +1,14 @@
 # DmitriyDubikov_microservices
 DmitriyDubikov microservices repository
 
+ДЗ №23 Kubernetes-4
+
+Установили Helm
+
+Развернули Gitlab в Kubernetes
+
+Запустили CI/CD конвейер в Kubernetes
+
 ДЗ №22 Kubernetes-3
 
 Изучили на примерах:
