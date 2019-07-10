@@ -1,6 +1,12 @@
 # DmitriyDubikov_microservices
 DmitriyDubikov microservices repository
 
+ДЗ №24 Kubernetes-5
+
+Развернули и настроили Prometheus в k8s для сбора метрик
+
+Установили Grafana и настроили dashboards
+
 ДЗ №23 Kubernetes-4
 
 Установили Helm
